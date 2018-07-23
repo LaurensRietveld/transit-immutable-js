@@ -1,5 +1,5 @@
 {
-  "name": "transit-immutable-js",
+  "name": "@triply/transit-immutable-js",
   "version": "0.7.0",
   "description": "Transit serialisation for Immutable.js",
   "main": "index.js",

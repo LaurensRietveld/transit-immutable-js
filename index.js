@@ -1,5 +1,5 @@
 var transit = require('transit-js');
-var Immutable = require('immutable');
+var Immutable = require('@triply/immutable');
 
 function createReader(handlers) {
   return transit.reader('json', {
